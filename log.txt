@@ -1,0 +1,6 @@
+09/09/2024 17:57:24 - https://httpbin.org/status/404 - online: false
+09/09/2024 17:57:26 - https://httpbin.org/status/200 - online: true
+09/09/2024 17:57:26 - https://www.alura.com.br - online: true
+09/09/2024 18:02:18 - https://httpbin.org/status/404 - online: false
+09/09/2024 18:02:18 - https://httpbin.org/status/200 - online: true
+09/09/2024 18:02:18 - https://www.alura.com.br - online: true
